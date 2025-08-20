@@ -33,7 +33,7 @@
 $hostname="localhost";
 $dbuser="root";
 $dbpass="";
-$dbname="testdb";
+$dbname="ezyro_38988069_tikoma";
 $conn=mysqli_connect($hostname,$dbuser,$dbpass,$dbname);
 if(!$conn){
     die("connection is not successfull");}
@@ -73,4 +73,5 @@ if(!$conn){
 </tbody>
 </div>
 </body>
+
 </html>
