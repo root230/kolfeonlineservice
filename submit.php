@@ -25,7 +25,7 @@ y_ኮርዲኔት:<input type="text"name="y_ኮርዲኔት"required><br><br>
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "testdb";
+$dbname = "ezyro_38988069_tikoma";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
@@ -58,4 +58,5 @@ if ($stmt->execute()) {
 }
 
 $conn->close();
+
 ?>
