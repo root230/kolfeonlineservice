@@ -1,3 +1,4 @@
 <?php
-$conn=mysqli_connect("localhost","root","","testdb");
+$conn=mysqli_connect("localhost","root","","ezyro_38988069_tikoma");
+
 ?>
